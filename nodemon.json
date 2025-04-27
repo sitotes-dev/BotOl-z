@@ -1,0 +1,9 @@
+{
+    "ignore": [
+        "./src/.sitotes",
+        "./src/session",
+        "./src/session/creds-file",
+        "./wa-logs.txt",
+        "./node_modules"
+    ]
+}

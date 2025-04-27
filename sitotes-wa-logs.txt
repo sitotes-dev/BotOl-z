@@ -1,0 +1,312 @@
+{"level":20,"time":"2025-04-26T09:03:26.124Z","pid":9891,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":10,"time":"2025-04-26T09:04:17.172Z","pid":9891,"hostname":"localhost","keys":30,"msg":"updated cache"}
+{"level":10,"time":"2025-04-26T09:04:17.728Z","pid":9891,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-26T09:04:17.739Z","pid":9891,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-26T09:04:17.759Z","pid":9891,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-26T09:04:17.993Z","pid":9891,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-26T09:04:18.002Z","pid":9891,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-26T09:04:20.738Z","pid":9891,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-26T09:04:20.747Z","pid":9891,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-26T09:04:20.750Z","pid":9891,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-26T09:04:20.751Z","pid":9891,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-26T09:04:20.752Z","pid":9891,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-26T09:04:20.754Z","pid":9891,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-26T09:04:22.646Z","pid":9891,"hostname":"localhost","keys":5,"msg":"updated cache"}
+{"level":10,"time":"2025-04-26T09:04:22.661Z","pid":9891,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-26T09:04:22.670Z","pid":9891,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":20,"time":"2025-04-26T09:04:23.136Z","pid":9891,"hostname":"localhost","chatsAdded":0,"msg":"synced chats"}
+{"level":20,"time":"2025-04-26T09:04:23.137Z","pid":9891,"hostname":"localhost","deletedContacts":0,"newContacts":[{"id":"6288989781626@s.whatsapp.net","notify":"."},{"id":"6285646645328@s.whatsapp.net","notify":"~🐣"},{"id":"6282231731608@s.whatsapp.net","notify":"Ben Labrador"},{"id":"6285930367156@s.whatsapp.net","notify":"Akbar"},{"id":"6281252465799@s.whatsapp.net","notify":"Awn"},{"id":"628819764143@s.whatsapp.net","notify":"͏"},{"id":"6281234656914@s.whatsapp.net","notify":"."},{"id":"6285645721430@s.whatsapp.net","notify":"破壊"},{"id":"6281334173534@s.whatsapp.net","notify":"tiyallw_"},{"id":"62895613452517@s.whatsapp.net","notify":"Fathan saja"},{"id":"6289650722622@s.whatsapp.net","notify":"Fatan"},{"id":"13135550002@s.whatsapp.net","notify":"13135550002"},{"id":"6281937885433@s.whatsapp.net","notify":"~ Abimael"},{"id":"601168684804@s.whatsapp.net","notify":"shahdanbinat"},{"id":"6289669123887@s.whatsapp.net","notify":"𝘊𝘩𝘳𝘪𝘻𝘻"},{"id":"62895340041142@s.whatsapp.net","notify":"alif Gulai Asli Padang🤤😂"},{"id":"6287772608709@s.whatsapp.net","notify":"Sanz"},{"id":"628895355345@s.whatsapp.net","notify":"Miboujin Niki"},{"id":"6283827945294@s.whatsapp.net","notify":"Jubay"},{"id":"639482748451@s.whatsapp.net","notify":"Reyna Cassiopeia Imperia"},{"id":"6281532259768@s.whatsapp.net","notify":"M?"},{"id":"6281237814520@s.whatsapp.net","notify":"sigma"},{"id":"6282290735266@s.whatsapp.net","notify":"Azza🦖"},{"id":"6281524749809@s.whatsapp.net","notify":"Ika"},{"id":"6281244068993@s.whatsapp.net","notify":"abcdefgoblok"},{"id":"6285748319381@s.whatsapp.net","notify":"⏤͟͟͞͞Ramaa"},{"id":"6282121013551@s.whatsapp.net","notify":"Barbar"},{"id":"6281297169448@s.whatsapp.net","notify":"🚽"},{"id":"62895324429899@s.whatsapp.net","notify":"."},{"id":"6282128632693@s.whatsapp.net","notify":"."},{"id":"6285217215288@s.whatsapp.net","notify":"!?"},{"id":"6285836050209@s.whatsapp.net","notify":"sakura v2"},{"id":"6281547107318@s.whatsapp.net","notify":"Kadal Gurun"},{"id":"6289630345900@s.whatsapp.net","notify":"Cikiboyz"},{"id":"6282276335928@s.whatsapp.net","notify":"9K` Rizz々"},{"id":"6281515723808@s.whatsapp.net","notify":"ELLYCHAN ™‮"},{"id":"6285784107682@s.whatsapp.net","notify":"Diky"},{"id":"6288213094035@s.whatsapp.net","notify":"Archives"},{"id":"6285237596750@s.whatsapp.net","notify":"𝙳𝚒𝚝𝚢𝚊 𝙸𝚗 𝙷𝚎𝚛𝚎"},{"id":"6283895883216@s.whatsapp.net","notify":"fs.readFileSync (/Swiper)"},{"id":"6288291577991@s.whatsapp.net","notify":"Only Human"},{"id":"6289531951751@s.whatsapp.net","notify":"\"van"},{"id":"6285931248430@s.whatsapp.net","notify":"ntfound"},{"id":"6285640830153@s.whatsapp.net","notify":"raa"},{"id":"6285716599001@s.whatsapp.net","notify":"^S^ || Future Knight"},{"id":"6287715721647@s.whatsapp.net","notify":"𝓪𝓵𝔂𝓪 𝓑𝓞𝓣"},{"id":"6285707042602@s.whatsapp.net","notify":"didi"},{"id":"6281327217813@s.whatsapp.net","notify":"require('./arfazy.js')"},{"id":"6282120230949@s.whatsapp.net","notify":"Sir R"},{"id":"6282251800941@s.whatsapp.net","notify":"Ikhwan アンジュ"},{"id":"6282269254351@s.whatsapp.net","notify":"Aretha"},{"id":"6287859743846@s.whatsapp.net","notify":"mugiwara✓𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭"},{"id":"6285194520363@s.whatsapp.net","notify":"Felix Saputra Tamba"},{"id":"6287873547070@s.whatsapp.net","notify":"Dimzz"},{"id":"6287846676690@s.whatsapp.net","notify":"eunrico lie"},{"id":"6281910094713@s.whatsapp.net","notify":"Bang_syaii ‮🫟"},{"id":"6283850778742@s.whatsapp.net","notify":"softspongken"},{"id":"6283822455492@s.whatsapp.net","notify":"Anak Baik🗿😹"},{"id":"6289669199796@s.whatsapp.net","notify":"J3v$$"},{"id":"6281547205987@s.whatsapp.net","notify":"Zephyr"},{"id":"6283161146858@s.whatsapp.net","notify":"Taruna Sakti"},{"id":"6285713279720@s.whatsapp.net","notify":"~ Rediansyah"},{"id":"6285874169094@s.whatsapp.net","notify":"rahzelmusrafa"},{"id":"62881026014913@s.whatsapp.net","notify":"Fareylilo MC"},{"id":"6282117782382@s.whatsapp.net","notify":"kang uncheck gacor"},{"id":"62895352799568@s.whatsapp.net","notify":"Dikaaa"},{"id":"6285336580720@s.whatsapp.net","notify":"Nauval Sada"},{"id":"6289681705507@s.whatsapp.net","notify":"Mar"},{"id":"6287846957426@s.whatsapp.net","notify":"Sehun125Hz"},{"id":"6285776354971@s.whatsapp.net","notify":"Lyr"},{"id":"6283848348721@s.whatsapp.net","notify":"Rex Yeager"},{"id":"6288232005077@s.whatsapp.net","notify":"Rick"},{"id":"6283856917396@s.whatsapp.net","notify":"."},{"id":"6282325252487@s.whatsapp.net","notify":"Ditz."},{"id":"6282121544150@s.whatsapp.net","notify":"k"},{"id":"6289501519478@s.whatsapp.net","notify":"REYY"},{"id":"6283893064398@s.whatsapp.net","notify":"FAHRI STORE"},{"id":"6285283375821@s.whatsapp.net","notify":"Natan"},{"id":"6282114275683@s.whatsapp.net","notify":"AxellNetwork | SM"},{"id":"6288298491478@s.whatsapp.net","notify":"marcus"},{"id":"6281568386364@s.whatsapp.net","notify":"P"},{"id":"6282154994462@s.whatsapp.net","notify":"‎"},{"id":"6281286189113@s.whatsapp.net","notify":"ẉ.ceo/TegarX"},{"id":"62895324070395@s.whatsapp.net","notify":"y"},{"id":"6282229725698@s.whatsapp.net","notify":"🗿."},{"id":"6287860644193@s.whatsapp.net","notify":"Axel - NandaLemon"},{"id":"6282253030750@s.whatsapp.net","notify":"TheMan"},{"id":"6285891267541@s.whatsapp.net","notify":"RavaelStore"},{"id":"6285294466914@s.whatsapp.net","notify":"afzal Rizki"},{"id":"62895328882893@s.whatsapp.net","notify":"Mita Miside (๑˃̵ ᴗ ˂̵) ♡"},{"id":"6283865989961@s.whatsapp.net","notify":"zulfar.storeid🌀"},{"id":"19419318284@s.whatsapp.net","notify":"MnzzF"},{"id":"6281398007638@s.whatsapp.net","notify":"claraa..siss?!?"},{"id":"62895391858601@s.whatsapp.net","notify":"t.me/Vickynodee"},{"id":"6285692564109@s.whatsapp.net","notify":"Aji"},{"id":"6281532053118@s.whatsapp.net","notify":"cni"},{"id":"6281228988973@s.whatsapp.net","notify":"BG FΛBLΣ"},{"id":"6285815611437@s.whatsapp.net","notify":"୧`cha? hmz 💁🏽‍♀️"},{"id":"628561523740@s.whatsapp.net","notify":"Alfiero Namora ( I King)⚜️"},{"id":"6282119094416@s.whatsapp.net","notify":"Kaflammim"},{"id":"6288268367684@s.whatsapp.net","notify":"A"},{"id":"6285715503078@s.whatsapp.net","notify":"𝙠𝙖𝙣𝙯𝙯🥷"},{"id":"6285756125171@s.whatsapp.net","notify":"Apinghj"},{"id":"6285134692824@s.whatsapp.net","notify":"Revan"},{"id":"6285150518668@s.whatsapp.net","notify":"ᅠᅠᅠ"},{"id":"6285363660853@s.whatsapp.net","notify":"🗣️ASEP"},{"id":"6281371297590@s.whatsapp.net","notify":".̸̳̔̎̎̎/̸̛̅̅͆̎͞ ̔𝙍𝙖𝙮𝙕 🚀"},{"id":"6283817421530@s.whatsapp.net","notify":"Bot"},{"id":"6282110978819@s.whatsapp.net","notify":"rapp"},{"id":"6285754439273@s.whatsapp.net","notify":"Santon Kairi Ahmad Budi"},{"id":"6281270338500@s.whatsapp.net","notify":"Satrio"},{"id":"6281548362150@s.whatsapp.net","notify":"Torik"},{"id":"6282121023865@s.whatsapp.net","notify":"BG » ΛPPLΣ"},{"id":"6287849661501@s.whatsapp.net","notify":"Zebratic"},{"id":"6281246493375@s.whatsapp.net","notify":"Mizaki Shinji"},{"id":"6289525443125@s.whatsapp.net","notify":"˚₊·͟͟͟͟͟͟͞͞͞͞͞͞➳ɪɴᴅɪɢᴏ ᴀɪ"},{"id":"62895342022385@s.whatsapp.net","notify":"ErerexID Chx"},{"id":"6283896011063@s.whatsapp.net","notify":"kiaaa"},{"id":"886976694798@s.whatsapp.net","notify":"͔░ཽ⃟⋆⃟🇦🇱 sv AdelL🏅jakarta🔥"},{"id":"6285736473949@s.whatsapp.net","notify":".."},{"id":"6285640158496@s.whatsapp.net","notify":"~"},{"id":"6282195203985@s.whatsapp.net","notify":"K ☆"},{"id":"6283143393023@s.whatsapp.net","notify":"frhan"},{"id":"6285692313250@s.whatsapp.net","notify":"￶"},{"id":"6285640925491@s.whatsapp.net","notify":"⏤͟͟͞͞Kriszz Hayanasi"},{"id":"6282161770314@s.whatsapp.net","notify":"Lyz"},{"id":"110136416850004@lid","notify":"Lily Seraphina Arabella"},{"id":"40892450775190@lid","notify":"𝐍𝐚𝐳𝐳𝐬𝐱𝐲𝐳𝐳. || 𝑺𝟒𝟖ᶜ"},{"id":"6285711065942@s.whatsapp.net","notify":"Fann"},{"id":"6285817597752@s.whatsapp.net","notify":"`Fruatre Maou`"},{"id":"6281229021231@s.whatsapp.net","notify":"BG - DEXTY"},{"id":"6285811142924@s.whatsapp.net","notify":"Xámm."},{"id":"6288747368054@s.whatsapp.net","notify":"𝖍𝖆𝖒𝖟々あ友"},{"id":"2443937099780@lid","notify":"YouKnowZαα?"},{"id":"6282239942406@s.whatsapp.net","notify":"ライサ"},{"id":"6285761107542@s.whatsapp.net","notify":"Bry"},{"id":"628388069438@s.whatsapp.net","notify":"B Aj🫴"},{"id":"6288227274225@s.whatsapp.net","notify":"?"},{"id":"6283838860551@s.whatsapp.net","notify":"aisyahdf"},{"id":"6283877924991@s.whatsapp.net","notify":"–dàñz"},{"id":"6282287129596@s.whatsapp.net","notify":"."},{"id":"6285950628573@s.whatsapp.net","notify":"zaaann"},{"id":"628812683760@s.whatsapp.net","notify":"Diraa"},{"id":"6285189092641@s.whatsapp.net","notify":"case \"🔵 Digis\": {\n    if"},{"id":"6282279088015@s.whatsapp.net","notify":"𝙼𝚊𝚣𝚉𝚣"},{"id":"175767728177173@lid","notify":"zaaann"},{"id":"233556278284428@lid","notify":"୧`cha? hmz 💁🏽‍♀️"},{"id":"62895622302211@s.whatsapp.net","notify":"Arhan"},{"id":"6285172443303@s.whatsapp.net","notify":"🫩㊝𐰁ᵃᵏ✌︎ Mengeluarkan Anda"},{"id":"6283847334166@s.whatsapp.net","notify":"🫆🫟Rza🪉2005 </> ¥﷼€🫜🪾"},{"id":"6283829922204@s.whatsapp.net","notify":"Habib"},{"id":"6282245102986@s.whatsapp.net","notify":"Suka Yuki Saya"},{"id":"6281336561434@s.whatsapp.net","notify":"💡アルチイ"},{"id":"6287858086256@s.whatsapp.net","notify":"Linzz Wa Ke 2"},{"id":"6287816301905@s.whatsapp.net","notify":"Haikal"},{"id":"216402497667241@lid","notify":"9K` Rizz々"},{"id":"6282223321593@s.whatsapp.net","notify":"DIP-MX"},{"id":"62895424302427@s.whatsapp.net","notify":"St4rgrill💤"},{"id":"230099131576476@lid","notify":"īya.om/Rz 2005 </> ¥ ░ཽ"},{"id":"6282187397499@s.whatsapp.net","notify":"No Kepo🫵🏼"},{"id":"141360795533378@lid","notify":"Natan"},{"id":"133127477436418@lid","notify":"cann"},{"id":"241725624852567@lid","notify":"Dikaaa"},{"id":"6285723542560@s.whatsapp.net","notify":"zëñ- kûñ大♡"},{"id":"272017894957303@lid","notify":"el wut wut"},{"id":"6282257415384@s.whatsapp.net","notify":"Archi"},{"id":"6282115117899@s.whatsapp.net","notify":"jsn"},{"id":"62895403332444@s.whatsapp.net","notify":"Rī𝐳𝐳𝐱á𝐥𝐥.io - {\"S.IT\"}"},{"id":"207726277836872@lid","notify":"fs.readFileSync (/Swiper)"},{"id":"6283834287122@s.whatsapp.net","notify":"."},{"id":"6282142781915@s.whatsapp.net","notify":"kepo.."},{"id":"6285233276535@s.whatsapp.net","notify":"Kai`"},{"id":"6282140646954@s.whatsapp.net","notify":"Candraaa"},{"id":"6285736560590@s.whatsapp.net","notify":"Virgo'"},{"id":"6282335666748@s.whatsapp.net","notify":"Zaidan"},{"id":"151939182530815@lid","notify":"lex"},{"id":"22059539275952@lid","notify":"AxellNetwork"},{"id":"190757013033079@lid","notify":"Man"},{"id":"6281225670051@s.whatsapp.net","notify":"Nasuhara Ryuzu"},{"id":"14655015649393@lid","notify":"Nasuhara Ryuzu"},{"id":"217291371356308@lid","notify":"Yusuf"},{"id":"85848259338315@lid","notify":"Dika"},{"id":"210849155313825@lid","notify":"BG » ΛPPLΣ"},{"id":"62895395256000@s.whatsapp.net","notify":"カルファ"},{"id":"6287795094578@s.whatsapp.net","notify":"cann"},{"id":"67719235932224@lid","notify":"KYNA-BOTZ"},{"id":"6285783851807@s.whatsapp.net","notify":"ZzzZz 🪾🫟"},{"id":"6285117014451@s.whatsapp.net","notify":"Li Shiya (Bot WhatsApp)"},{"id":"6285754352905@s.whatsapp.net","notify":"Rexzy Wa Sherr"},{"id":"6283876211208@s.whatsapp.net","notify":"Intel Legenda"},{"id":"148017978060814@lid","notify":"͔░ཽ⃟⋆⃟🇦🇱 sv AdelL🏅jakarta🔥"},{"id":"47618755432637@lid","notify":"𝙍𝙖𝙮𝙕 🚀"},{"id":"217428491555003@lid","notify":"*~{'N'}~*,"},{"id":"6283879908248@s.whatsapp.net","notify":"ditz digidaw🦉"},{"id":"199883868897412@lid","notify":"Lee Zin"},{"id":"189232517754948@lid","notify":"Bot"},{"id":"6287746162804@s.whatsapp.net","notify":"alsouec"},{"id":"184993116606480@lid","notify":"Ajah"},{"id":"252566055194818@lid","notify":"zanzz"},{"id":"6289657726003@s.whatsapp.net","notify":"Hariri"},{"id":"6285366974710@s.whatsapp.net","notify":"4Rzeraaa."},{"id":"6285316521036@s.whatsapp.net","notify":"Alfatah"},{"id":"6285762008398@s.whatsapp.net","notify":"Ary Juanda"},{"id":"6285184668334@s.whatsapp.net","notify":"Xeon"},{"id":"212770553998@s.whatsapp.net","notify":"Abdou"},{"id":"6285658687836@s.whatsapp.net","notify":"BOT MAHES"},{"id":"6283191451281@s.whatsapp.net","notify":"Tama Official"},{"id":"6283184348909@s.whatsapp.net","notify":"CaramelTyz"},{"id":"62895416602000@s.whatsapp.net","notify":"NathanOffc.js"},{"id":"6289639947788@s.whatsapp.net","notify":"f"},{"id":"6287842075449@s.whatsapp.net","notify":"daniel"},{"id":"6285136558181@s.whatsapp.net","notify":"Rey"},{"id":"6283134213550@s.whatsapp.net","notify":"Aliilaid"},{"id":"6288991094260@s.whatsapp.net","notify":"Hh"},{"id":"6283893002926@s.whatsapp.net","notify":"京⃝™V!LLAINxW0RLD京⃝"},{"id":"195464364326989@lid","notify":"卍 | Shiro Schnova.     ‮"},{"id":"62895405182982@s.whatsapp.net","notify":"riyanvvv123"},{"id":"62895327494563@s.whatsapp.net","notify":"Zecterr"},{"id":"6285808272676@s.whatsapp.net","notify":"AHMAD 🥴🥲"},{"id":"2349155932325@s.whatsapp.net","notify":"Uday"},{"id":"6281229084132@s.whatsapp.net","notify":"?"},{"id":"62895391551260@s.whatsapp.net","notify":"Datop Sin"},{"id":"6283896168476@s.whatsapp.net","notify":"𝐏𝐚𝐧𝐧𝐧𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐋𝐗𝐃"},{"id":"6283181636851@s.whatsapp.net","notify":"FatirStore¹ (6851)"},{"id":"6289527157559@s.whatsapp.net","notify":"man hosting jb 3681"},{"id":"6281226714173@s.whatsapp.net","notify":"𝐋𝐔𝐙𝐘𝐓𝐙𝐗 𝐈𝐬 𝐍𝐢𝐠𝐡𝐭𝐦𝐚𝐫𝐞"},{"id":"6289519701024@s.whatsapp.net","notify":"~ ᴋᴏᴄᴀᴋ"},{"id":"6285715840894@s.whatsapp.net","notify":"."},{"id":"212642170890@s.whatsapp.net","notify":"l."},{"id":"639120927655@s.whatsapp.net","notify":"Reyna Cassiopeia Imperia"},{"id":"6285966249397@s.whatsapp.net","notify":"ROY ||VASION〽️⁩"},{"id":"6281239851650@s.whatsapp.net","notify":"Alya Premium"},{"id":"6283846821612@s.whatsapp.net","notify":"Loopv1"},{"id":"6283856221610@s.whatsapp.net","notify":"ʏᴏɪᴍɪʏᴀ ᴀssɪsᴛᴇɴᴛ"},{"id":"6285850498103@s.whatsapp.net","notify":"."},{"id":"628973865205@s.whatsapp.net","notify":"Alya"},{"id":"6283100402002@s.whatsapp.net","notify":"Saya Tidak Bersalah🗿"},{"id":"6285718476823@s.whatsapp.net","notify":"《JIP》"},{"id":"6282171035351@s.whatsapp.net","notify":"Hutabarat"},{"id":"6285693477445@s.whatsapp.net","notify":"남주혁"}],"msg":"synced contacts"}
+{"level":20,"time":"2025-04-26T09:04:23.137Z","pid":9891,"hostname":"localhost","messages":0,"msg":"synced messages"}
+{"level":10,"time":"2025-04-26T09:04:24.974Z","pid":9891,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-26T09:04:32.016Z","pid":9891,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-26T09:04:32.443Z","pid":9891,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":20,"time":"2025-04-26T09:04:32.515Z","pid":9891,"hostname":"localhost","chatsAdded":25,"msg":"synced chats"}
+{"level":20,"time":"2025-04-26T09:04:32.515Z","pid":9891,"hostname":"localhost","deletedContacts":0,"newContacts":[{"id":"120363338656932492@g.us","name":"TNR DISCUSSION"},{"id":"6288989781626@s.whatsapp.net","name":"Sitotes OWNER"},{"id":"120363345612733591@g.us","name":"SCRIPT SHARING"},{"id":"120363249812880549@g.us","name":"ACE Squad🥇"},{"id":"6285176904822@s.whatsapp.net","name":"Natan"},{"id":"0@s.whatsapp.net","name":"WhatsApp Business"},{"id":"120363149966664275@g.us","name":"Vist"},{"id":"6288807419898@s.whatsapp.net"},{"id":"62895352269991@s.whatsapp.net"},{"id":"628893738911@s.whatsapp.net"},{"id":"6282125793593@s.whatsapp.net"},{"id":"120363332208740196@g.us","name":"TEAM NOT REAL"},{"id":"6285930367156@s.whatsapp.net","name":"Akbar"},{"id":"120363268345753527@g.us","name":"GGH Company Group"},{"id":"120363395675333850@s.whatsapp.net"},{"id":"120363392655746316@g.us","name":"TESTING GC MENU"},{"id":"628819764143@s.whatsapp.net","name":"Ibuk ratu"},{"id":"120363341027727555@g.us","name":"ANIMEK MEMEK"},{"id":"120363330693400896@g.us","name":"BEBAS APA AJA, ANGGAP AJA GROUP LU SENDIRII"},{"id":"120363390982119343@g.us","name":"BLIND GUARDIAN"},{"id":"6285176916306@s.whatsapp.net"},{"id":"6285117259799@s.whatsapp.net"},{"id":"6281334173534@s.whatsapp.net","name":"Yoga"}],"msg":"synced contacts"}
+{"level":20,"time":"2025-04-26T09:04:32.520Z","pid":9891,"hostname":"localhost","messages":205,"msg":"synced messages"}
+{"level":10,"time":"2025-04-26T09:04:47.360Z","pid":9891,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-26T09:04:47.371Z","pid":9891,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-26T09:04:47.373Z","pid":9891,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-26T09:04:49.367Z","pid":9891,"hostname":"localhost","items":2,"msg":"loading from store"}
+{"level":10,"time":"2025-04-26T09:04:50.811Z","pid":9891,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":20,"time":"2025-04-26T09:08:38.439Z","pid":12942,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":10,"time":"2025-04-26T09:09:03.385Z","pid":12942,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-26T09:09:03.400Z","pid":12942,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":20,"time":"2025-04-27T05:11:15.728Z","pid":27849,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T05:12:12.626Z","pid":27891,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T05:12:39.767Z","pid":27927,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T05:12:53.500Z","pid":27949,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T05:13:37.260Z","pid":27983,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T05:14:03.865Z","pid":28024,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T05:15:13.995Z","pid":28076,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T05:15:38.663Z","pid":28102,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":10,"time":"2025-04-27T05:15:43.831Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:43.856Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:43.950Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:43.953Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:43.968Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:43.970Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:43.974Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:43.975Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:43.980Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.051Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.071Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.076Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.104Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.113Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.114Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.126Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.128Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.129Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.130Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.132Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.156Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.161Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.162Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.174Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.176Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.179Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.180Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.182Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.213Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.227Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.228Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.231Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.233Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.247Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.249Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.254Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.272Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.273Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.339Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.345Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.374Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.384Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.388Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.391Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.411Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.413Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.418Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.420Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.420Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.421Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.424Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.426Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.439Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.440Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.441Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.442Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.443Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.467Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.496Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.524Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.546Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.569Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.591Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.616Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.639Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.661Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.684Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.709Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.733Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.756Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.779Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.805Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.828Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.850Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.873Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.897Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.900Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.902Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.913Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.915Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.916Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:44.917Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.918Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.939Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:44.983Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.007Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.030Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.054Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.076Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.100Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.123Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.146Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.169Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.192Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.215Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.237Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.260Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.265Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.268Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.288Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.317Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.344Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.374Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.400Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.424Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.447Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.470Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.493Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.516Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.538Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.562Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.584Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.607Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.629Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.654Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.677Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.700Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.724Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.753Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.778Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.803Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.825Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.849Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.871Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.894Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.916Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.939Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.963Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.985Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:45.987Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:45.988Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:46.000Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.001Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.003Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:46.004Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.005Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.029Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.052Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.074Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.096Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.118Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.142Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.164Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.187Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.210Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.233Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.255Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.279Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.302Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.325Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.348Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.370Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.394Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.416Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.439Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.461Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.483Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.506Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.529Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.551Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.573Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.596Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.618Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.646Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.671Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.694Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.718Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.745Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.748Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:46.749Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:46.759Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.761Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.762Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:46.762Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.764Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.786Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.809Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.832Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.855Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.877Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.900Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.921Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.945Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.967Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:46.990Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:47.014Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:47.037Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:47.059Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:47.081Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:47.103Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:47.126Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:47.148Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:47.171Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:47.193Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:47.218Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:47.241Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:47.263Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:47.286Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:15:48.983Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:48.985Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:48.985Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:48.986Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:48.986Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:48.986Z","pid":28102,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:15:49.026Z","pid":28102,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":20,"time":"2025-04-27T05:15:49.030Z","pid":28102,"hostname":"localhost","update":{"id":"status@broadcast","conversationTimestamp":1745679398,"unreadCount":1},"msg":"got update for non-existant chat"}
+{"level":20,"time":"2025-04-27T05:15:49.030Z","pid":28102,"hostname":"localhost","update":{"id":"120363313634719566@newsletter","conversationTimestamp":1745682787,"unreadCount":1},"msg":"got update for non-existant chat"}
+{"level":20,"time":"2025-04-27T05:15:49.038Z","pid":28102,"hostname":"localhost","update":{"message":null,"messageStubType":1,"key":{"remoteJid":"status@broadcast","fromMe":false,"id":"986920B8CAEE9CDAB8B23D6709D07FB5","participant":"6281234656914@s.whatsapp.net"}},"msg":"got update for non-existent message"}
+{"level":20,"time":"2025-04-27T05:15:49.069Z","pid":28102,"hostname":"localhost","update":{"id":"6287877844417@s.whatsapp.net","notify":"Raden"},"msg":"got update for non-existant contact"}
+{"level":20,"time":"2025-04-27T05:28:22.283Z","pid":30086,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T05:28:59.837Z","pid":30512,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T05:44:08.062Z","pid":5841,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T05:44:58.972Z","pid":5912,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":10,"time":"2025-04-27T05:45:02.731Z","pid":5912,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:45:02.816Z","pid":5912,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:45:02.830Z","pid":5912,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:45:02.862Z","pid":5912,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:45:02.892Z","pid":5912,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:45:02.931Z","pid":5912,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:45:02.961Z","pid":5912,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:45:02.989Z","pid":5912,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:45:03.015Z","pid":5912,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T05:45:07.762Z","pid":5912,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T05:45:07.787Z","pid":5912,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":20,"time":"2025-04-27T05:45:07.844Z","pid":5912,"hostname":"localhost","update":{"id":"6287877844417@s.whatsapp.net","notify":"Raden"},"msg":"got update for non-existant contact"}
+{"level":20,"time":"2025-04-27T05:48:25.269Z","pid":6666,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T05:51:23.896Z","pid":8063,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T05:55:22.603Z","pid":8361,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T06:14:00.777Z","pid":9622,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T06:15:05.992Z","pid":9739,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T06:16:06.529Z","pid":9836,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T06:17:13.330Z","pid":10122,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":10,"time":"2025-04-27T06:18:45.732Z","pid":10122,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T06:18:45.813Z","pid":10122,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":20,"time":"2025-04-27T06:18:45.883Z","pid":10122,"hostname":"localhost","update":{"id":"6285842763915@s.whatsapp.net","notify":"alwaysanan.site","verifiedName":"alwaysanan.site"},"msg":"got update for non-existant contact"}
+{"level":10,"time":"2025-04-27T06:18:48.652Z","pid":10122,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":20,"time":"2025-04-27T06:18:48.685Z","pid":10122,"hostname":"localhost","update":{"id":"6285842763915@s.whatsapp.net","notify":"alwaysanan.site"},"msg":"got update for non-existant contact"}
+{"level":20,"time":"2025-04-27T06:20:01.326Z","pid":11289,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T06:20:53.902Z","pid":11607,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T06:22:20.040Z","pid":12186,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T06:22:22.004Z","pid":12249,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T06:23:33.976Z","pid":12714,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T06:24:12.188Z","pid":13013,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T06:37:04.415Z","pid":20622,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T06:39:42.219Z","pid":22037,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T06:52:40.128Z","pid":25838,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T06:58:38.218Z","pid":28196,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T07:00:00.121Z","pid":28772,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T07:06:23.036Z","pid":32153,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T07:29:08.858Z","pid":17191,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T07:31:46.617Z","pid":18258,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T07:33:07.098Z","pid":18810,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T07:38:58.270Z","pid":21441,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T08:45:43.194Z","pid":21516,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T08:50:40.224Z","pid":23830,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T08:51:37.670Z","pid":24421,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T08:54:59.046Z","pid":25784,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T08:57:05.668Z","pid":26866,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T08:57:43.801Z","pid":27178,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T08:59:13.822Z","pid":27864,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T09:01:20.802Z","pid":28774,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T09:07:19.090Z","pid":31840,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T09:07:44.758Z","pid":32100,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T09:11:32.874Z","pid":1843,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":20,"time":"2025-04-27T09:15:57.614Z","pid":6473,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}
+{"level":10,"time":"2025-04-27T09:25:19.727Z","pid":6473,"hostname":"localhost","items":1,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T09:25:19.779Z","pid":6473,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T09:25:21.790Z","pid":6473,"hostname":"localhost","items":3,"msg":"loading from store"}
+{"level":10,"time":"2025-04-27T09:25:21.896Z","pid":6473,"hostname":"localhost","keys":4,"msg":"updated cache"}
+{"level":10,"time":"2025-04-27T09:25:23.873Z","pid":6473,"hostname":"localhost","keys":1,"msg":"updated cache"}
+{"level":20,"time":"2025-04-27T09:45:31.382Z","pid":26438,"hostname":"localhost","path":"/data/data/com.termux/files/home/lolyy/botol-z/./src/session/baileys_store_multi.json","msg":"reading from file"}

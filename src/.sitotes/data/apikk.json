@@ -1,0 +1,80 @@
+{
+    "key": {
+        "remoteJid": "6283848348721@s.whatsapp.net",
+        "fromMe": false,
+        "id": "FELZFB60ED26DC96"
+    },
+    "messageTimestamp": 1737994537,
+    "pushName": "R?",
+    "broadcast": false,
+    "message": {
+        "contactMessage": {
+            "displayName": "Darwin Official",
+            "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Darwin Official\nORG:Creator of Yorha Project;\nTEL;type=CELL;type=VOICE;waid=6283873891575:6283873891575\nX-WA-BIZ-DESCRIPTION:Creator of Yorha Project\nX-WA-BIZ-NAME:Darwin Official\nEND:VCARD",
+            "contextInfo": {
+                "stanzaId": "45EFB7120C81248B27D9A2A5AA197329",
+                "participant": "6283848348721@s.whatsapp.net",
+                "quotedMessage": {
+                    "conversation": ".sc"
+                },
+                "externalAdReply": {
+                    "title": "𝚁𝙴𝙰𝙻 𝙲𝙾𝙳𝙴𝚁",
+                    "body": "Dm for business only",
+                    "mediaType": "IMAGE",
+                    "thumbnailUrl": "https://pps.whatsapp.net/v/t61.24694-24/473410427_525891663166404_4567931697827760966_n.jpg?ccb=11-4&oh=01_Q5AaIIuoAptwZ2DkfMnt6dysHlsFTZSqI9fCRqx2FeystJiE&oe=67A4CB7C&_nc_sid=5e03e0&_nc_cat=102",
+                    "sourceUrl": "https://wa.me/6283873891575",
+                    "renderLargerThumbnail": true
+                }
+            }
+        }
+    },
+    "status": 4,
+    "id": "FELZFB60ED26DC96",
+    "isBaileys": false,
+    "chat": "6283848348721@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "6283848348721@s.whatsapp.net",
+    "mtype": "contactMessage",
+    "msg": {
+        "displayName": "Darwin Official",
+        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Darwin Official\nORG:Creator of Yorha Project;\nTEL;type=CELL;type=VOICE;waid=6283873891575:6283873891575\nX-WA-BIZ-DESCRIPTION:Creator of Yorha Project\nX-WA-BIZ-NAME:Darwin Official\nEND:VCARD",
+        "contextInfo": {
+            "stanzaId": "45EFB7120C81248B27D9A2A5AA197329",
+            "participant": "6283848348721@s.whatsapp.net",
+            "quotedMessage": {
+                "conversation": ".sc"
+            },
+            "externalAdReply": {
+                "title": "𝚁𝙴𝙰𝙻 𝙲𝙾𝙳𝙴𝚁",
+                "body": "Dm for business only",
+                "mediaType": "IMAGE",
+                "thumbnailUrl": "https://pps.whatsapp.net/v/t61.24694-24/473410427_525891663166404_4567931697827760966_n.jpg?ccb=11-4&oh=01_Q5AaIIuoAptwZ2DkfMnt6dysHlsFTZSqI9fCRqx2FeystJiE&oe=67A4CB7C&_nc_sid=5e03e0&_nc_cat=102",
+                "sourceUrl": "https://wa.me/6283873891575",
+                "renderLargerThumbnail": true
+            }
+        }
+    },
+    "quoted": {
+        "text": ".sc",
+        "mtype": "conversation",
+        "id": "45EFB7120C81248B27D9A2A5AA197329",
+        "chat": "6283848348721@s.whatsapp.net",
+        "isBaileys": false,
+        "sender": "6283848348721@s.whatsapp.net",
+        "fromMe": false,
+        "mentionedJid": [],
+        "fakeObj": {
+            "key": {
+                "remoteJid": "6283848348721@s.whatsapp.net",
+                "fromMe": false,
+                "id": "45EFB7120C81248B27D9A2A5AA197329"
+            },
+            "message": {
+                "conversation": ".sc"
+            }
+        }
+    },
+    "mentionedJid": [],
+    "text": ""
+}
