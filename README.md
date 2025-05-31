@@ -45,7 +45,7 @@ Panduan ini akan membantu kamu menginstal **SiTotes Bot** di Termux dengan mudah
     Penggunaan `&&` memastikan bahwa perintah `git clone` hanya akan dieksekusi jika perintah `cd ~/lolyy` berhasil. Ini mencegah repositori dikloning di lokasi yang salah (misalnya, di direktori home jika `lolyy` gagal dibuat atau salah ketik).
     Repositori akan dikloning ke dalam folder `lolyy`, sehingga path akhirnya menjadi `~/lolyy/BotOl-z`.
     ```bash
-    cd ~/lolyy && git clone [https://github.com/sitotes-dev/BotOl-z](https://github.com/sitotes-dev/BotOl-z)
+    cd ~/lolyy && git clone https://github.com/sitotes-dev/BotOl-z
     ```
     * Jika Anda mendapatkan error "No such file or directory" pada perintah `cd ~/lolyy`, pastikan Anda sudah berhasil menjalankan perintah `mkdir ~/lolyy` pada langkah 5.
 
